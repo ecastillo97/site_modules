@@ -1,0 +1,7 @@
+README.txt
+setup.py
+slq.py
+slq.egg-info/PKG-INFO
+slq.egg-info/SOURCES.txt
+slq.egg-info/dependency_links.txt
+slq.egg-info/top_level.txt

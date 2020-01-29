@@ -1,0 +1,48 @@
+1568402464722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0k/vjxjc94130n15k1pftz8_9kw0000gn/T/rust_mozprofileF4WGZg"
+*** You are running in headless mode.
+1568402466520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1568402466520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1568402468765	Marionette	INFO	Listening on port 57220
+1568402468874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568402505200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0k/vjxjc94130n15k1pftz8_9kw0000gn/T/rust_mozprofileDWKrll"
+*** You are running in headless mode.
+1568402507384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1568402507384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1568402508947	Marionette	INFO	Listening on port 57292
+1568402508989	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1568403708020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/0k/vjxjc94130n15k1pftz8_9kw0000gn/T/rust_mozprofiletkRL0U"
+*** You are running in headless mode.
+1568403709510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1568403709510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1568403710984	Marionette	INFO	Listening on port 57529
+1568403710993	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+2019-09-14 03:55:42.680 firefox-bin[2805:270692] HIToolbox: received notification of WindowServer event port death.
+2019-09-14 03:55:42.680 firefox-bin[2805:270692] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-14 03:55:42.684 firefox-bin[2796:269878] HIToolbox: received notification of WindowServer event port death.
+2019-09-14 03:55:42.684 firefox-bin[2796:269878] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-14 03:55:42.684 firefox-bin[2905:286887] HIToolbox: received notification of WindowServer event port death.
+2019-09-14 03:55:42.684 firefox-bin[2905:286887] port matched the WindowServer port created in BindCGSToRunLoop
